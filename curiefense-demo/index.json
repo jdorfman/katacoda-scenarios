@@ -18,7 +18,12 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "showdashboard": true,
+    "dashboards": [
+        {"name": "Management UI", "href": "https://[[HOST_SUBDOMAIN]]-30081-[[KATACODA_HOST]].environments.katacoda.com"},
+        {"name": "Grafana", "href": "https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com"}
+      ]
   },
   "backend": {
     "imageid": "ubuntu:2004"
