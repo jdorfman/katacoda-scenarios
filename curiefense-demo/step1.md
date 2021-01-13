@@ -4,3 +4,5 @@
 
 ## Next run Docker Compose (this could take a bit)
 `cd curiefense/deploy/compose/ && docker-compose up`{{execute}}
+
+> This will be hidden
