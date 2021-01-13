@@ -9,9 +9,3 @@ https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com
 * Password: `admin`
 
 > You can click `Skip` instead of changing the password.
-
-### Traffic Overview Dashboard
-
-[Launch Dashboard](https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com/d/RF_rRJIGk/traffic-overview?orgId=1)
-
-![Grafana Screenshot](./assets/grafana-real_time_screenshot.jpg)
