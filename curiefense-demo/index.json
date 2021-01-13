@@ -16,6 +16,10 @@
       {
         "title": "Step 3",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step3.md"
       }
     ],
     "intro": {
@@ -30,7 +34,8 @@
     "showdashboard": true,
     "dashboards": [
         {"name": "Management UI", "href": "https://[[HOST_SUBDOMAIN]]-30080-[[KATACODA_HOST]].environments.katacoda.com"},
-        {"name": "Grafana", "href": "https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com"}
+        {"name": "Grafana", "href": "https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com"},
+        {"name": "HTTP Ping", "href": "https://[[HOST_SUBDOMAIN]]-30081-[[KATACODA_HOST]].environments.katacoda.com"}
       ]
   },
   "backend": {
