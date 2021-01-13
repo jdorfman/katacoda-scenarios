@@ -5,9 +5,9 @@ Curiefense comes with two dashboards out of the box: [Traffic Overview](https://
 
 ### Login
 
-https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com
+[Launch Grafana](https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com)
 
-* Default username: `admin`
+* Username: `admin`
 * Password: `admin`
 
-> You can click `Skip` instead of changing the password.
+> You may click `Skip` instead of changing the password.

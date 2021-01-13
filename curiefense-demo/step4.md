@@ -1,6 +1,4 @@
-## Grafana Dashboards
-
-### Traffic Overview Dashboard
+## Grafana Dashboards: Traffic Overview
 
 Available Panels (line charts)
 

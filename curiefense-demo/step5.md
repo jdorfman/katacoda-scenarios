@@ -1,6 +1,4 @@
-## Grafana Dashboards
-
-### Top Activities Dashboard
+## Grafana Dashboards: Top Activities
 
 Available Panels (line charts)
 
