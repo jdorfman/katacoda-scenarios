@@ -1,1 +1,8 @@
-In this guide, we will deploy Curiefense using Docker Compose, then test and configure.
+In this guide, we will explore what Curiefense can do without needing to install anything.
+
+In thisWe will cover:
+
+* Curiefense Management UI
+* Grafana Dashboards
+    * Traffic Overview Dashboard
+    * Top Activities Dashboard

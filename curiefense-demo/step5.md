@@ -10,7 +10,7 @@ Available Panels (line charts)
 * Blocking WAF IDs
 * Blocking ACL Ids
 
-[Launch Dashboard](https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com/d/waPvnJSMk/top-activities?orgId=1)
+👉 [Launch Dashboard](https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com/d/waPvnJSMk/top-activities?orgId=1)
 
 ![Grafana Screenshot](./assets/grafana-top-activities_screenshot.png)
 
