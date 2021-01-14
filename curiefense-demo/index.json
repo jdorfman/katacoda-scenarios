@@ -42,13 +42,13 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-iframe-split",
     "showdashboard": true,
     "dashboards": [
-        {"name": "Management UI", "href": "https://[[HOST_SUBDOMAIN]]-30080-[[KATACODA_HOST]].environments.katacoda.com"},
-        {"name": "Grafana", "href": "https://[[HOST_SUBDOMAIN]]-30300-[[KATACODA_HOST]].environments.katacoda.com"},
-        {"name": "Swagger", "href": "https://[[HOST_SUBDOMAIN]]-30000-[[KATACODA_HOST]].environments.katacoda.com/api/v1/"},
-        {"name": "Echo Web Server", "href": "https://[[HOST_SUBDOMAIN]]-30081-[[KATACODA_HOST]].environments.katacoda.com"}
+        {"name": "Management UI", "port": 30080},
+        {"name": "Grafana", "port": 30300},
+        {"name": "Swagger", "port": 30000},
+        {"name": "Echo Web Server", "port": 30081}
       ]
   },
   "backend": {
